@@ -1,0 +1,15 @@
+/Users/afra/Projects/Builder/Builder/bin/Debug/net5.0/Builder.deps.json
+/Users/afra/Projects/Builder/Builder/bin/Debug/net5.0/Builder.runtimeconfig.json
+/Users/afra/Projects/Builder/Builder/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/Users/afra/Projects/Builder/Builder/bin/Debug/net5.0/Builder.dll
+/Users/afra/Projects/Builder/Builder/bin/Debug/net5.0/ref/Builder.dll
+/Users/afra/Projects/Builder/Builder/bin/Debug/net5.0/Builder.pdb
+/Users/afra/Projects/Builder/Builder/obj/Debug/net5.0/Builder.csprojAssemblyReference.cache
+/Users/afra/Projects/Builder/Builder/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/Builder/Builder/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/Users/afra/Projects/Builder/Builder/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/Users/afra/Projects/Builder/Builder/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/Builder/Builder/obj/Debug/net5.0/Builder.dll
+/Users/afra/Projects/Builder/Builder/obj/Debug/net5.0/ref/Builder.dll
+/Users/afra/Projects/Builder/Builder/obj/Debug/net5.0/Builder.pdb
+/Users/afra/Projects/Builder/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache
